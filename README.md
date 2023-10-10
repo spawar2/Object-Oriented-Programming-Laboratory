@@ -1,4 +1,4 @@
-[# Object-Oriented-Programming-Laboratory](https://pawar1550.wixsite.com/claflin-courses/copy-of-object-oriented-programming)
+[# Object-Oriented-Programming-Laboratory 4 credits](https://pawar1550.wixsite.com/claflin-courses/copy-of-object-oriented-programming)
 
 Youtube Teaching Channel: https://www.youtube.com/playlist?list=PLKka-JHtsz80sJ_uQ8wZ4cnLNB9yRJNoV
 
