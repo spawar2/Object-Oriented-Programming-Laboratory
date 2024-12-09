@@ -3,7 +3,7 @@ Object Oriented Programming (topics including inheritance, msg passing, poly
 [Youtube Teaching Channel:](https://www.youtube.com/playlist?list=PLKka-JHtsz80sJ_uQ8wZ4cnLNB9yRJNoV)
 CSCI207.
 [Object Oriented Programming:](https://youtu.be/GPLjXvVgssc)
-December, 9, 2024.
+Date created/updated: December, 9, 2024.
 [Git Version Control:](https://youtu.be/IM56cFOyCZM)
 https://github.com/spawar2/Object-Oriented-Programming-Laboratory/blob/main/Git-Version-Control-Instructions.rtf
 
