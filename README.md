@@ -1,4 +1,4 @@
-Learning Objectives [# Object-Oriented-Programming-Laboratory 4 Credits](https://pawar1550.wixsite.com/claflin-courses/copy-of-object-oriented-programming)
+Learning Objectives [# Object-Oriented-Programming-Laboratory, 4 Credits](https://pawar1550.wixsite.com/claflin-courses/copy-of-object-oriented-programming)
 Object Oriented Programming (topics including inheritance, msg passing, polymorphism, recursion, abstraction, encapsulation, software design techniques, etc.).
 [Youtube Teaching Channel:](https://www.youtube.com/playlist?list=PLKka-JHtsz80sJ_uQ8wZ4cnLNB9yRJNoV)
 CSCI207.
